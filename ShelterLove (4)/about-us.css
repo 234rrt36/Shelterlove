@@ -1,0 +1,80 @@
+.about-us1 {
+  margin: 0;
+  position: absolute;
+  top: 55px;
+  left: 96px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 364px;
+  height: 34px;
+}
+.about-us-child,
+.about-us-inner,
+.about-us-item {
+  position: absolute;
+  top: 589px;
+  left: 48px;
+  width: 680px;
+  height: 423px;
+  object-fit: cover;
+}
+.about-us-inner,
+.about-us-item {
+  top: 595px;
+  left: 777px;
+  width: 626px;
+}
+.about-us-inner {
+  top: 1614px;
+  left: 42px;
+  width: 1349px;
+  height: 888px;
+}
+.about-us-child1,
+.about-us-child2,
+.about-us-child3 {
+  position: absolute;
+  top: 1109px;
+  left: 42px;
+  width: 680px;
+  height: 408px;
+  object-fit: cover;
+}
+.about-us-child2,
+.about-us-child3 {
+  left: 777px;
+  width: 626px;
+}
+.about-us-child3 {
+  top: 155px;
+  left: 52px;
+  width: 1339px;
+  height: 360px;
+}
+.how-it-started {
+  display: block;
+}
+.how-it-started-container {
+  margin: 0;
+  position: absolute;
+  top: 174px;
+  left: 61px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  display: inline-block;
+  width: 1330px;
+  height: 319px;
+}
+.about-us {
+  position: relative;
+  background-color: #96ceda;
+  width: 100%;
+  height: 2575px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

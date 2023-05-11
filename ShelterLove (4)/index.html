@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="index1">
+      <img
+        class="icoutline-copyright-icon"
+        alt=""
+        src="./public/icoutlinecopyright.svg"
+      />
+
+      <img class="index-child" alt="" src="./public/rectangle-54@2x.png" />
+
+      <img
+        class="material-symbolscall-sharp-icon"
+        alt=""
+        src="./public/materialsymbolscallsharp.svg"
+      />
+
+      <img
+        class="icoutline-email-icon"
+        alt=""
+        src="./public/icoutlineemail.svg"
+      />
+
+      <header class="index-item"></header>
+      <h1 class="shelter-love">Shelter Love</h1>
+      <button class="about-us2" id="aboutUs">About Us</button>
+      <button class="services2" id="services">services</button>
+      <div class="index-inner"></div>
+      <a
+        class="shelterlovegmailcom"
+        href="mailto:shelterlove@gmail.com"
+        id="shelterlovegmailcom"
+        >shelterlove@gmail.com</a
+      >
+      <div class="contact">+918550017910</div>
+      <img class="group-icon" alt="" src="./public/group-1@2x.png" />
+
+      <h1 class="animal-protection-is">
+        Animal Protection is Education to Humanity..
+      </h1>
+      <button class="contact-us2" id="contactUs">Contact Us</button>
+      <button class="donation2" id="donation">Donation</button>
+      <button class="gallery2" id="gallery">Gallery</button>
+      <img class="index-child1" alt="" src="./public/rectangle-58@2x.png" />
+
+      <label class="ights-es"
+        >2020. We Save Animals(WSA) Welfare Trust.All Rights Reserved</label
+      >
+      <img
+        class="icoutline-copyright-icon1"
+        alt=""
+        src="./public/icoutlinecopyright1.svg"
+      />
+
+      <h1 class="home">Home</h1>
+    </div>
+
+    <script>
+      var aboutUs = document.getElementById("aboutUs");
+      if (aboutUs) {
+        aboutUs.addEventListener("click", function (e) {
+          window.location.href = "./about-us.html";
+        });
+      }
+      
+      var services = document.getElementById("services");
+      if (services) {
+        services.addEventListener("click", function (e) {
+          window.location.href = "./services.html";
+        });
+      }
+      
+      const shelterlovegmailcom = document.getElementById("shelterlovegmailcom");
+      if (shelterlovegmailcom) {
+        shelterlovegmailcom.addEventListener("click", function () {
+          window.location.href = "mailto:shelterlove@gmail.com";
+        });
+      }
+      
+      var contactUs = document.getElementById("contactUs");
+      if (contactUs) {
+        contactUs.addEventListener("click", function (e) {
+          window.location.href = "./contact-us.html";
+        });
+      }
+      
+      var donation = document.getElementById("donation");
+      if (donation) {
+        donation.addEventListener("click", function (e) {
+          window.location.href = "./donation.html";
+        });
+      }
+      
+      var gallery = document.getElementById("gallery");
+      if (gallery) {
+        gallery.addEventListener("click", function (e) {
+          window.location.href = "./gallery.html";
+        });
+      }
+      </script>
+  </body>
+</html>

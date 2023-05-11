@@ -1,0 +1,84 @@
+.services1 {
+  margin: 0;
+  position: absolute;
+  top: 44px;
+  left: 98px;
+  font-size: var(--font-size-45xl);
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-black);
+  display: inline-block;
+  width: 385px;
+  height: 88px;
+}
+.services-child,
+.services-child1,
+.services-inner,
+.services-item {
+  position: absolute;
+  top: 176px;
+  left: 68px;
+  width: 802px;
+  height: 435px;
+  object-fit: cover;
+}
+.services-child1,
+.services-inner,
+.services-item {
+  top: 655px;
+  width: 811px;
+}
+.services-child1,
+.services-inner {
+  top: 1141px;
+  height: 423px;
+}
+.services-child1 {
+  top: 1594px;
+  height: 435px;
+}
+.adoption-and-awareness,
+.medical-treatments,
+.rescue-injured-and,
+.volunteers {
+  margin: 0;
+  position: absolute;
+  top: 308px;
+  left: 945px;
+  font-weight: 700;
+  display: inline-block;
+  width: 449px;
+  height: 149px;
+}
+.adoption-and-awareness,
+.medical-treatments,
+.volunteers {
+  top: 851px;
+  left: 981px;
+  width: 413px;
+  height: 147px;
+}
+.adoption-and-awareness,
+.volunteers {
+  top: 1313px;
+  left: 965px;
+  width: 387px;
+  height: 149px;
+}
+.volunteers {
+  top: 1750px;
+  left: 1010px;
+  width: 358px;
+  height: 127px;
+}
+.services {
+  position: relative;
+  background-color: #76a4c6;
+  width: 100%;
+  height: 2119px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,168 @@
+.contact-us1 {
+  margin: 0;
+  position: absolute;
+  top: 52px;
+  left: 61px;
+  font-size: var(--font-size-45xl);
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 732px;
+  height: 159px;
+}
+.contact-us-child,
+.contact-us-inner,
+.contact-us-item,
+.rectangle-input {
+  border: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 222px;
+  left: 24px;
+  width: 1221px;
+  height: 120px;
+}
+.contact-us-inner,
+.contact-us-item,
+.rectangle-input {
+  top: 448px;
+  left: 26px;
+  width: 1220px;
+  height: 110px;
+}
+.contact-us-inner,
+.rectangle-input {
+  top: 672px;
+  height: 135px;
+}
+.rectangle-input {
+  top: 892px;
+  width: 1219px;
+  height: 250px;
+}
+.email-address,
+.message,
+.name,
+.phone-number {
+  position: absolute;
+  top: 164px;
+  left: 43px;
+  display: inline-block;
+  width: 120px;
+  height: 47px;
+}
+.email-address,
+.message,
+.phone-number {
+  top: 394px;
+  left: 26px;
+  width: 273px;
+  height: 54px;
+}
+.message,
+.phone-number {
+  top: 838px;
+  left: 42px;
+  width: 186px;
+  height: 46px;
+}
+.phone-number {
+  top: 616px;
+  left: 26px;
+  width: 278px;
+  height: 53px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #35854b;
+  position: absolute;
+  top: 1163px;
+  left: 108px;
+  border-radius: 10px;
+  width: 194px;
+  height: 97px;
+}
+.send {
+  position: absolute;
+  top: 1190px;
+  left: 122px;
+  font-weight: 700;
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 155px;
+}
+.vector-icon {
+  position: absolute;
+  height: 3.32%;
+  width: 3.86%;
+  top: 85.4%;
+  right: 92.28%;
+  bottom: 11.27%;
+  left: 3.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.address,
+.b,
+.phone,
+.syno-182-k {
+  position: absolute;
+  display: inline-block;
+  color: var(--color-white);
+}
+.syno-182-k {
+  top: 1418px;
+  left: 26px;
+  font-size: var(--font-size-13xl);
+  width: 1277px;
+}
+.address,
+.b,
+.phone {
+  top: 1346px;
+  left: 108px;
+  width: 232px;
+  height: 46px;
+}
+.b,
+.phone {
+  top: 1581px;
+  left: 133px;
+  width: 225px;
+  height: 48px;
+}
+.b {
+  top: 1668px;
+  left: 45px;
+  width: 320px;
+  height: 65px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 2.61%;
+  width: 2.93%;
+  top: 72.6%;
+  right: 93.85%;
+  bottom: 24.78%;
+  left: 3.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.contact-us {
+  position: relative;
+  background-color: #65aebe;
+  width: 100%;
+  height: 1836px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

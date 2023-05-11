@@ -1,0 +1,202 @@
+.icoutline-copyright-icon {
+  position: absolute;
+  top: 514px;
+  left: 707px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.index-child {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 1439px;
+  height: 1079px;
+  object-fit: cover;
+}
+.icoutline-email-icon,
+.material-symbolscall-sharp-icon {
+  position: absolute;
+  top: 23px;
+  left: 683px;
+  width: 43px;
+  height: 48px;
+  overflow: hidden;
+}
+.icoutline-email-icon {
+  top: 13px;
+  left: 984px;
+  width: 57px;
+  height: 69px;
+}
+.index-item {
+  position: absolute;
+  top: 87px;
+  left: 70px;
+  background: linear-gradient(90deg, #192ffc, rgba(16, 253, 111, 0.91));
+  width: 1313px;
+  height: 101px;
+}
+.about-us2,
+.services2,
+.shelter-love {
+  position: absolute;
+  font-weight: 700;
+  display: inline-block;
+}
+.shelter-love {
+  margin: 0;
+  top: 112px;
+  left: 108px;
+  font-size: var(--font-size-17xl);
+  font-family: inherit;
+  width: 252px;
+  height: 64px;
+}
+.about-us2,
+.services2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 132px;
+  left: 646px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  width: 117px;
+  height: 39px;
+}
+.services2 {
+  top: 129px;
+  left: 807px;
+  width: 147px;
+}
+.index-inner {
+  position: absolute;
+  top: 176px;
+  left: 519px;
+  background-color: #14e55c;
+  width: 100px;
+  height: 10px;
+}
+.contact,
+.shelterlovegmailcom {
+  position: absolute;
+  top: 34px;
+  display: inline-block;
+}
+.shelterlovegmailcom {
+  text-decoration: none;
+  left: 1058px;
+  color: #f20909;
+  width: 342px;
+  height: 16px;
+  cursor: pointer;
+}
+.contact {
+  left: 743px;
+  color: #ec1e1e;
+  width: 211px;
+  height: 37px;
+}
+.group-icon {
+  position: absolute;
+  top: 190px;
+  left: 70px;
+  width: 1313px;
+  height: 796px;
+  object-fit: cover;
+}
+.animal-protection-is {
+  margin: 0;
+  position: absolute;
+  top: 198px;
+  left: 131px;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 655px;
+  height: 72px;
+}
+.contact-us2,
+.donation2,
+.gallery2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 132px;
+  left: 1229px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 182px;
+  height: 35px;
+}
+.donation2,
+.gallery2 {
+  left: 937px;
+  width: 112px;
+}
+.gallery2 {
+  top: 133px;
+  left: 1083px;
+  width: 90px;
+  height: 29px;
+}
+.index-child1 {
+  position: absolute;
+  top: 913px;
+  left: 70px;
+  width: 1313px;
+  height: 73px;
+  object-fit: cover;
+}
+.ights-es {
+  position: absolute;
+  top: 933px;
+  left: 146px;
+  font-weight: 700;
+  display: inline-block;
+  width: 791px;
+  height: 38px;
+}
+.icoutline-copyright-icon1 {
+  position: absolute;
+  top: 930px;
+  left: 70px;
+  width: 60px;
+  height: 39px;
+  overflow: hidden;
+}
+.home {
+  margin: 0;
+  position: absolute;
+  top: 133px;
+  left: 531px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  color: #5adb76;
+  display: inline-block;
+  width: 81px;
+  height: 38px;
+}
+.index1 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0));
+  width: 100%;
+  height: 986px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

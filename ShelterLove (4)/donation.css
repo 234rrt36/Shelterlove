@@ -1,0 +1,284 @@
+.donation-child {
+  position: absolute;
+  top: 3343px;
+  left: 56px;
+  width: 796px;
+  height: 707px;
+  object-fit: cover;
+}
+.frequently-ask-questions {
+  position: absolute;
+  top: 3196px;
+  left: 169px;
+  font-size: 48px;
+  font-weight: 700;
+  display: inline-block;
+  width: 957px;
+  height: 63px;
+}
+.donation-inner,
+.donation-item {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 511px;
+}
+.donation-item {
+  top: 3343px;
+  left: 891px;
+  background-color: #21ef0f;
+  height: 88px;
+}
+.donation-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  top: 3820px;
+  left: 893px;
+  height: 89px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 3940px;
+  left: 889px;
+  width: 517px;
+  height: 96px;
+}
+.what-are-the {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 3369px;
+  left: 920px;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  width: 482px;
+  height: 38px;
+}
+.get-more-pets,
+.how-to-trend,
+.what-are-the {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.how-to-trend {
+  top: 3843px;
+  left: 909px;
+  width: 472px;
+  height: 43px;
+}
+.get-more-pets {
+  top: 3965px;
+  left: 904px;
+  width: 312px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 0.53%;
+  width: 1.92%;
+  top: 80.78%;
+  right: 5.19%;
+  bottom: 18.69%;
+  left: 92.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.donation1 {
+  margin: 0;
+  position: absolute;
+  top: 56px;
+  left: -52px;
+  font-size: var(--font-size-45xl);
+  font-weight: 700;
+  font-family: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 609px;
+  height: 74px;
+}
+.donation-child1 {
+  position: absolute;
+  top: 221px;
+  left: 86px;
+  width: 1260px;
+  height: 743px;
+  object-fit: cover;
+}
+.you-can-passively {
+  margin: 0;
+  position: absolute;
+  top: 543px;
+  left: 100px;
+  font-weight: 700;
+  color: #141313;
+  display: inline-block;
+  width: 689px;
+  height: 180px;
+}
+.donation-child2 {
+  position: absolute;
+  top: 1149px;
+  left: 86px;
+  width: 1260px;
+  height: 528px;
+  object-fit: cover;
+}
+.the-one-day {
+  margin: 0;
+  position: absolute;
+  top: 1224px;
+  left: 129px;
+  font-weight: 700;
+  display: inline-block;
+  width: 725px;
+  height: 77px;
+}
+.donation-child3 {
+  position: absolute;
+  top: 1896px;
+  left: 86px;
+  width: 1260px;
+  height: 440px;
+  object-fit: cover;
+}
+.miner-surgery {
+  margin: 0;
+}
+.miner-surgery-save-container {
+  margin: 0;
+  position: absolute;
+  top: 1900px;
+  left: 118px;
+  font-weight: 700;
+  color: var(--color-white);
+  display: inline-block;
+  width: 491px;
+  height: 202px;
+}
+.donation-child4 {
+  position: absolute;
+  top: 2552px;
+  left: 86px;
+  width: 1269px;
+  height: 420px;
+  object-fit: cover;
+}
+.shelter {
+  margin: 0;
+  position: absolute;
+  top: 2603px;
+  left: 405px;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  color: var(--color-white);
+  display: inline-block;
+  width: 365px;
+  height: 77px;
+}
+.donation-child5 {
+  position: absolute;
+  top: 3462px;
+  left: 893px;
+  width: 509px;
+  height: 198px;
+  object-fit: cover;
+}
+.pet-food-generally {
+  margin: 0;
+  position: absolute;
+  top: 3474px;
+  left: 906px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  display: inline-block;
+  width: 489px;
+  height: 167px;
+}
+.donation-child6 {
+  position: absolute;
+  top: 3699px;
+  left: 891px;
+  width: 511px;
+  height: 82px;
+  object-fit: cover;
+}
+.how-to-manage-container {
+  position: absolute;
+  top: 3706px;
+  left: 913px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 466px;
+  height: 53px;
+}
+.donation-child10,
+.donation-child7,
+.donation-child8,
+.donation-child9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-yellowgreen);
+  position: absolute;
+  top: 1011px;
+  left: 463px;
+  border-radius: var(--br-xs);
+  width: 326px;
+  height: 82px;
+}
+.donation-child10,
+.donation-child8,
+.donation-child9 {
+  top: 1748px;
+  left: 466px;
+}
+.donation-child10,
+.donation-child9 {
+  top: 2403px;
+  left: 469px;
+}
+.donation-child10 {
+  top: 3039px;
+}
+.donate,
+.donate1,
+.donate2,
+.donate3 {
+  position: absolute;
+  top: 1028px;
+  left: 558px;
+  font-weight: 700;
+  display: inline-block;
+  width: 142px;
+  height: 47px;
+}
+.donate1,
+.donate2,
+.donate3 {
+  top: 1765px;
+  left: 561px;
+}
+.donate2,
+.donate3 {
+  top: 2420px;
+  left: 564px;
+}
+.donate3 {
+  top: 3056px;
+}
+.donation {
+  position: relative;
+  background-color: #598b9a;
+  width: 100%;
+  height: 4173px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

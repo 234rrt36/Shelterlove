@@ -1,0 +1,195 @@
+.gallery-child,
+.gallery-item {
+  position: absolute;
+  top: 321px;
+  left: 29px;
+  width: 421px;
+  height: 314px;
+  object-fit: cover;
+}
+.gallery-item {
+  top: 707px;
+  width: 422px;
+}
+.gallery-child1,
+.gallery-child2,
+.gallery-child3,
+.gallery-inner {
+  position: absolute;
+  top: 321px;
+  left: 484px;
+  width: 421px;
+  height: 314px;
+  object-fit: cover;
+}
+.gallery-child1,
+.gallery-child2,
+.gallery-child3 {
+  top: 707px;
+  left: 493px;
+}
+.gallery-child2,
+.gallery-child3 {
+  top: 321px;
+  left: 939px;
+}
+.gallery-child3 {
+  top: 707px;
+  left: 954px;
+}
+.rectangle-article {
+  position: absolute;
+  top: 1184px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1439px;
+  height: 705px;
+}
+.gallery-child4,
+.gallery-child5 {
+  position: absolute;
+  top: 1224px;
+  left: 30px;
+  width: 358px;
+  height: 411px;
+  object-fit: cover;
+}
+.gallery-child5 {
+  top: 1383px;
+  left: 423px;
+  width: 312px;
+  height: 460px;
+}
+.many-people-dont,
+.why-choose-us {
+  position: absolute;
+  display: inline-block;
+}
+.why-choose-us {
+  top: 1283px;
+  left: 762px;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  width: 396px;
+  height: 92px;
+}
+.many-people-dont {
+  top: 1375px;
+  left: 770px;
+  font-size: var(--font-size-13xl);
+  width: 552px;
+  height: 323px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1990px;
+  left: 59px;
+  background: linear-gradient(
+    90deg,
+    rgba(43, 165, 203, 0),
+    #282eb2,
+    rgba(17, 147, 242, 0.27),
+    rgba(31, 90, 158, 0.5)
+  );
+  width: 1337px;
+  height: 244px;
+}
+.gallery-child6,
+.gallery-child7 {
+  background-color: var(--color-gainsboro);
+  top: 2112px;
+}
+.gallery-child6 {
+  border: 0;
+  position: absolute;
+  left: 144px;
+  width: 266px;
+  height: 83px;
+}
+.gallery-child7 {
+  left: 465px;
+  width: 255px;
+}
+.gallery-child7,
+.gallery-child8,
+.gallery-child9 {
+  border: 0;
+  position: absolute;
+  height: 83px;
+}
+.gallery-child8 {
+  background-color: var(--color-gainsboro);
+  top: 2112px;
+  left: 799px;
+  width: 257px;
+}
+.gallery-child9 {
+  cursor: pointer;
+  padding: 0;
+  background-color: #2d1cfb;
+  top: 2105px;
+  left: 1162px;
+  width: 181px;
+}
+.email,
+.name1,
+.send-now {
+  position: absolute;
+  top: 2076px;
+  left: 144px;
+  display: inline-block;
+  width: 161px;
+  height: 36px;
+}
+.email,
+.send-now {
+  left: 811px;
+  width: 189px;
+  height: 19px;
+}
+.send-now {
+  top: 2128px;
+  left: 1178px;
+  width: 165px;
+  height: 48px;
+}
+.send-us-now {
+  top: 2032px;
+  left: 156px;
+  color: var(--color-white);
+  width: 294px;
+  height: 51px;
+}
+.gallery1,
+.mob-no,
+.send-us-now {
+  position: absolute;
+  font-weight: 700;
+  display: inline-block;
+}
+.gallery1 {
+  margin: 0;
+  top: 56px;
+  left: 99px;
+  font-size: var(--font-size-45xl);
+  font-family: inherit;
+  width: 325px;
+  height: 110px;
+}
+.mob-no {
+  top: 2075px;
+  left: 465px;
+  width: 86px;
+  height: 22px;
+}
+.gallery {
+  position: relative;
+  background-color: #6a98cd;
+  width: 100%;
+  height: 2368px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
